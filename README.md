@@ -2,7 +2,7 @@
 - 👀 I’m interested in camping, plogging, and wood carving
 - 🌱 I’m currently learning Flutter, After Effects, Photoshop, Adobe XD, Dimensions, Dreamweaver
 - 💞️ I’m looking to collaborate on flutter
-- 📫 How to reach me
-- gmail: yigitcandur@gmail.com
-- ig: @yigitcandur
-- tw: @yigitcandur
+- 📫 How to reach me:
+  - gmail: yigitcandur@gmail.com
+  - ig: @yigitcandur
+  - tw: @yigitcandur
